@@ -1,10 +1,11 @@
 # AirBnB_Analysis
-<div style="width: 90%; margin: auto; padding: 20px; background-color: #ecf0f1; border-radius: 0 12px 12px 12px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);" markdown="1">
-Check Deatil Project: Kaggle (https://www.kaggle.com/code/soorajgupta7/airbnb-analysis)
 
-  # Airbnb Analysis Project 🏠📊
+# Airbnb Analysis Project 🏠📊
 
 Welcome to my Airbnb Analysis Project repository! 🚀 In this project, I dive deep into the data to extract valuable insights into accommodation preferences, geographic trends, and strategic decision-making for optimized hosting on Airbnb.
+
+## Full Analysis
+Check out the full analysis notebook on [Kaggle](https://www.kaggle.com/code/soorajgupta7/airbnb-analysis)!
 
 ## Project Highlights:
 
